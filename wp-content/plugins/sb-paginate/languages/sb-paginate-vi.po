@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sb-paginate\n"
+"POT-Creation-Date: 2017-10-27 20:47+0700\n"
+"PO-Revision-Date: 2017-10-27 20:48+0700\n"
+"Last-Translator: SB Team <laidinhcuongvn@gmail.com>\n"
+"Language-Team: SB Team <laidinhcuongvn@gmail.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/admin-settings-page.php:2
+msgid "Pagination Settings"
+msgstr ""
+
+#: ../inc/backend.php:3
+msgid "Pagination by HocWP Team"
+msgstr ""
+
+#: ../inc/backend.php:3
+msgid "Pagination"
+msgstr ""
+
+#: ../inc/backend.php:18
+msgid "Label"
+msgstr ""
+
+#: ../inc/backend.php:19
+msgid "Show All"
+msgstr ""
+
+#: ../inc/backend.php:20
+msgid "End Size"
+msgstr ""
+
+#: ../inc/backend.php:21
+msgid "Mid Size"
+msgstr ""
+
+#: ../inc/backend.php:22
+msgid "Dynamic Size"
+msgstr ""
+
+#: ../inc/backend.php:23
+msgid "Prev Next"
+msgstr ""
+
+#: ../inc/backend.php:24
+msgid "Prev Text"
+msgstr ""
+
+#: ../inc/backend.php:25
+msgid "Next Text"
+msgstr ""
+
+#: ../inc/backend.php:26
+msgid "First Last"
+msgstr ""
+
+#: ../inc/backend.php:27
+msgid "First Text"
+msgstr ""
+
+#: ../inc/backend.php:28
+msgid "Last Text"
+msgstr ""
+
+#: ../inc/backend.php:29
+msgid "Current Total"
+msgstr ""
+
+#: ../inc/backend.php:55
+msgid ""
+"Show all of the pages instead of a short list of the pages near the current "
+"page"
+msgstr ""
+
+#: ../inc/backend.php:69
+msgid "How many numbers on either the start and the end list edges."
+msgstr ""
+
+#: ../inc/backend.php:82
+msgid ""
+"How many numbers to either side of current page, but not including current "
+"page."
+msgstr ""
+
+#: ../inc/backend.php:92
+msgid "Display page items automatically"
+msgstr ""
+
+#: ../inc/backend.php:103
+msgid "Whether to include the previous and next links in the list or not"
+msgstr ""
+
+#: ../inc/backend.php:136
+msgid "Whether to include the first and last links in the list or not"
+msgstr ""
+
+#: ../inc/backend.php:171
+msgid ""
+"Show current page of total pages. You can use tag [CURRENT] and [TOTAL] in "
+"this field."
+msgstr ""
+
+#: ../inc/frontend.php:58 ../sb-paginate.php:35
+msgid "First"
+msgstr ""
+
+#: ../inc/frontend.php:71 ../sb-paginate.php:36
+msgid "Last"
+msgstr ""
+
+#: ../inc/frontend.php:80
+msgid "Page [CURRENT]/[TOTAL]"
+msgstr ""
+
+#: ../sb-paginate.php:32
+msgid "Previous"
+msgstr ""
+
+#: ../sb-paginate.php:33
+msgid "Next"
+msgstr ""
+
+#~ msgid "SB Paginate options page"
+#~ msgstr "Trang cài đặt tùy chọn cho SB Paginate"
+
+#~ msgid "Style"
+#~ msgstr "Giao diện"
+
+#~ msgid "Border radius"
+#~ msgstr "Bo viền góc"
+
+#~ msgid "The number of page links to show at beginning and end of pagination."
+#~ msgstr "Số nút hiển thị ở đầu và cuối phân trang."
+
+#~ msgid "The minimum number of page links before ellipsis shows."
+#~ msgstr "Số nút tối thiểu trước khi hiển thị dấu 3 chấm (...)."
+
+#~ msgid "Default"
+#~ msgstr "Mặc định"
+
+#~ msgid "Orange"
+#~ msgstr "Màu cam"
+
+#~ msgid "Dark"
+#~ msgstr "Màu tối"
+
+#~ msgid "Choose style color for pagination."
+#~ msgstr "Chọn màu sắc hiển thị cho phân trang."
+
+#~ msgid "Elipse"
+#~ msgstr "Elipse"
+
+#~ msgid "None"
+#~ msgstr "Không"
+
+#~ msgid "You can make navigation buttons have border radius or not."
+#~ msgstr "Bạn có thể chọn để cho các nút có bo viền tròn hoặc không."
+
+#~ msgid "You must install plugin %1$s first! Click here to %2$s."
+#~ msgstr "Bạn phải cài plugin %1$s trước. Nhấn vào đây để %2$s."
+
+#~ msgid "go back"
+#~ msgstr "quay lại"
+
+#~ msgid "Settings"
+#~ msgstr "Cài đặt"
